@@ -1,0 +1,13 @@
+COMMAND RUN:
+curl https://api.github.com/repos/harshilljp/simple-interest-calculator
+
+TERMINAL OUTPUT:
+{
+  "name": "simple-interest-calculator",
+  "full_name": "harshilljp/simple-interest-calculator",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
